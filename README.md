@@ -94,6 +94,6 @@ public class Example {
 <dependency>
     <groupId>com.github.Cyclize</groupId>
     <artifactId>SQLHelper</artifactId>
-    <version>2.5.7</version>
+    <version>2.5.9</version>
 </dependency>
 ```
