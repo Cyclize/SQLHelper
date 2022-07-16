@@ -1,5 +1,5 @@
 # SQLHelper
-[![](https://jitpack.io/v/Alviannn/SQLHelper.svg)](https://jitpack.io/#Alviannn/SQLHelper)
+[![](https://jitpack.io/v/Cyclize/SQLHelper.svg)](https://jitpack.io/#Cyclize/SQLHelper)
 
 A java SQL tool
 
