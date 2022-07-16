@@ -92,8 +92,8 @@ public class Example {
 2. Insert this to your dependency section (on the pom.xml)
 ```xml
 <dependency>
-    <groupId>com.github.Alviannn</groupId>
+    <groupId>com.github.Cyclize</groupId>
     <artifactId>SQLHelper</artifactId>
-    <version>2.5.5</version>
+    <version>2.5.7</version>
 </dependency>
 ```
